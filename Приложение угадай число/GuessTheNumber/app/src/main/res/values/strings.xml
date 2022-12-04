@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GuessTheNumber</string>
+    <string name="labelMinValue">Минимальное значение:</string>
+    <string name="labelMaxValue">Максимальное значение:</string>
+    <string name="buttonStartGame">Играть</string>
+    <string name="dialogTitle">Диалоговое окно</string>
+    <string name="labelRandomNumber">Вы загадали это число?:</string>
+
+    <string name="buttonLess">Меньше</string>
+    <string name="buttonMore">Больше</string>
+    <string name="buttonEqually">Равно</string>
+    <integer name="num">10000000</integer>
+</resources>
