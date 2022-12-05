@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">flightSearch</string>
+    <string name="defaultValueTicket">0</string>
+    <string name="defaultCountValueTicket">0:</string>
+    <string name="labelBabyTicket">Младенец:</string>
+    <string name="labelChildTicket">Ребёнок:</string>
+    <string name="labelAdultTicket">Взрослый:</string>
+    <string name="labelCountTicket">Кол-во пассажиров</string>
+    <string name="labelArrivalDate">Дата прибытия:</string>
+    <string name="labelDepartureDate">Дата отправления:</string>
+    <string name="applicationTitle">Сервис поиска авиабилетов</string>
+    <string name="arrivalCity">Город прилёта:</string>
+    <string name="DepartureCity">Город вылета:</string>
+    <string name="DepartureDate">---Укажите дату отправки---</string>
+    <string name="searchButton">Поиск</string>
+    <string-array name="cities">
+        <item>---Выберите город---</item>
+        <item>Москва</item>
+        <item>Санкт-Петербург</item>
+        <item>Новосибирск</item>
+        <item>Екатеринбург</item>
+        <item>Казань</item>
+        <item>Нижний Новгород</item>
+        <item>Челябинск</item>
+        <item>Омск</item>
+    </string-array>
+</resources>
