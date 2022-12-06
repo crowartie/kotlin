@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ArrayAdapter</string>
+    <string name="labelHumanList">Список людей:</string>
+    <string name="addHumanButton">Добавить</string>
+    <string name="nameAndSurname">Фамилия и имя</string>
+    <string name="labelNewHuman">Новый человек:</string>
+    <string-array name="womanName">
+        <item>Анастасия</item>
+        <item>Валерия</item>
+        <item>Елизавета</item>
+    </string-array>
+    <string-array name="womanSurname">
+        <item>Белинская</item>
+        <item>Белозерова</item>
+        <item>Дмитриева</item>
+    </string-array>
+    <string-array name="manName">
+        <item>Евгений</item>
+        <item>Дмитрий</item>
+        <item>Владислав</item>
+    </string-array>
+    <string-array name="manSurname">
+        <item>Арсентьев</item>
+        <item>Ларкин</item>
+        <item>Грибанов</item>
+    </string-array>>
+</resources>
