@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Adapting markup</string>
+    <integer-array name="nameImg">
+        <item>@drawable/car1</item>
+        <item>@drawable/car2</item>
+        <item>@drawable/car3</item>
+    </integer-array>
+</resources>
